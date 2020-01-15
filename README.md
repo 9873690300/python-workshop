@@ -1,2 +1,3 @@
 # python-workshop
-learning python with juipitot
+learning python with juipitor
+
